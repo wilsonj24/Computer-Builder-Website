@@ -8,5 +8,4 @@ intro_paragraph: >
   makes a Computer run. Between Processors and Graphics Cards, one may have the
   ability to create a powerful machine.
 
-  
 ---
