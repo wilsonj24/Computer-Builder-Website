@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Greetings!
+title: Welcome!
 permalink: /
 section: home
 intro_paragraph: >
@@ -9,3 +9,4 @@ intro_paragraph: >
   ability to create a powerful machine.
 
 ---
+![Image of Graphics Card](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/home/Graphics-card-406x320px.jpg)

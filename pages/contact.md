@@ -5,11 +5,16 @@ permalink: /contact
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  If you would like to contact me to learn more about this information, please
+  feel free to contact me.
+
+  Jordan Wilson
+  Computer Science student at Allegheny College
+  520 N Main Street
+  Meadville, Pennsylvania, USA 16335
+
+  Email: wilsonj3@allegheny.edu
+
 ---
 
 **Send us a message**
