@@ -3,7 +3,7 @@ layout: contact
 title: Contact
 permalink: /contact
 section: contact
-intro_paragraph: |-
+intro_paragraph: >
 
   If you would like to contact me to learn more about this information, please
   feel free to contact me.
@@ -16,5 +16,3 @@ intro_paragraph: |-
   Email: wilsonj3@allegheny.edu
 
 ---
-
-**Send us a message**
