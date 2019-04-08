@@ -7,18 +7,18 @@ intro_paragraph: |
   This Page will help you pick parts that will help you build your PC.
 ---
 CPU:<br>
-CPU Cooler:
-Motherboard:
-Memory:
-Storage:
-Video Card:
-Case:
-Power Supply:
-Optical Drive:
-Operating System:
-Software:
-Monitor:
-External Storage:
+CPU Cooler:<br>
+Motherboard:<br>
+Memory:<br>
+Storage:<br>
+Video Card:<br>
+Case:<br>
+Power Supply:<br>
+Optical Drive:<br>
+Operating System:<br>
+Software:<br>
+Monitor:<br>
+External Storage:<br>
 
 ### A heading
 
