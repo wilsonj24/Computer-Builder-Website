@@ -21,10 +21,18 @@ Software:<br>
 Monitor:<br>
 External Storage:<br>
 
-### A heading
+### Top CPU's to buy
+- Nvidia GeForce RTX 2080ti<br>
+- Nvidia GeForece RTX 2080<br>
+- AMD Radeon VII<br>
+- Nvidia GeForce RTX 2070<br>
+- Nvidia GeForce RTX 2060<br>
+- AMD Radeon RX Vega 56 8GB
+- GeForece GTX 1660 ti 6GB<br>
+- AMD Radeon RX 580 8GB<br>
+- Nvidia GeForce GTX 1060 6GB<br>
+- AMD Radeon RX 570 4GB<br>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 #### Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
