@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
   This Page will help you pick parts that will help you build your PC.
 ---
-CPU:
+CPU:<br>
 CPU Cooler:
 Motherboard:
 Memory:
