@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Parts
-permalink: /Parts
+permalink: /parts
 section: parts
 intro_paragraph: |
   This page is to tell you the parts that go inside of a Computer.
