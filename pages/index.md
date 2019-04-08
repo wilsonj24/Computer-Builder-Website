@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome!
-permalink: /
+permalink: /home
 section: home
 intro_paragraph: >
   Welcome to my custom-created website. Computer Hardware is the foundation that
