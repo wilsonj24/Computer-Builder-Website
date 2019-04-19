@@ -2,4 +2,10 @@
   <p class="intro">
     {{ page.intro_paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
   </p>
+
+  <style>
+    p {
+      color: blue;
+    }
+  </style>
 {% endif %}
