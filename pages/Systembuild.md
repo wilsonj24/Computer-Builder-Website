@@ -21,7 +21,7 @@ Software:<br>
 Monitor:<br>
 External Storage:<br>
 
-### Top CPU's to buy
+### Top GPU's to buy
 - Nvidia GeForce RTX 2080ti<br>
 - Nvidia GeForece RTX 2080<br>
 - AMD Radeon VII<br>
@@ -35,4 +35,24 @@ External Storage:<br>
 
 
 
-#### Another heading
+#### Top CPU's to buy
+
+
+#### Top CPU Coolers to buy
+
+
+#### Top Motherboards to buy
+
+
+#### Top SSD's to buy
+
+
+#### Top HDD's to buy
+
+
+#### Top Cases to buy
+
+
+#### Most used Operating Systems
+
+#### Top Monitors to use
