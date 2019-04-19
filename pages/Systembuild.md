@@ -36,7 +36,16 @@ External Storage:<br>
 
 
 #### Top CPU's to buy
-
+Intel core i7-9700k<br>
+Intel core i5-8400<br>
+AMD Ryzen 5<br>
+AMD Ryzen 3<br>
+AMD Ryzen 7<br>
+Intel core i9-9900k<br>
+Intel core i5-8600k<br>
+Intel core i7-7820x<br>
+Intel core i9-9980XE<br>
+Intel Pentium G4560<br>
 
 #### Top CPU Coolers to buy
 
