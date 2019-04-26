@@ -2,7 +2,7 @@
 layout: post
 title: Snowflake
 author: Patrick Ung
-date: '2019-04-25 12:00:00'
+date: '2019-04-25 12:01:00'
 categories: misc
 ---
 
