@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Another post
-author: john_doe
+title: Custom PC Build
+author: Patrick Ung
 date: '2018-07-06 12:00:00'
 categories: misc
 ---
 
 
-Parts:
+Parts:<br>
 CPU: Intel - Core i7-8700k 3.7 GHz 6-Core Processor<br>
 CPU Cooler: NXZT - Kraken X62 Rev 2 98.17 CFM Liquid CPU Cooler<br>
 Motherboard: ASUS - Prime z370-A ATX LGA1151 Motherboard<br>
