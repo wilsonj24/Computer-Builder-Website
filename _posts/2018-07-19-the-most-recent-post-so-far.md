@@ -3,9 +3,10 @@ layout: post
 title: QuietStorm
 author: Kevyn Del Castillo
 date: '2019-04-26 12:03:32'
-intro_paragraph: ''
 categories: misc
 ---
+
+
 Parts:<br>
 CPU: 8700k<br>
 GPU: EVGA GTX 1080<br>
