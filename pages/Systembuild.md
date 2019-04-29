@@ -22,16 +22,16 @@ Monitor:<br>
 External Storage:<br>
 
 ### Top GPU's to buy
-- Nvidia GeForce RTX 2080ti<br>
-- Nvidia GeForece RTX 2080<br>
-- AMD Radeon VII<br>
-- Nvidia GeForce RTX 2070<br>
-- Nvidia GeForce RTX 2060<br>
-- AMD Radeon RX Vega 56 8GB
-- GeForece GTX 1660 ti 6GB<br>
-- AMD Radeon RX 580 8GB<br>
-- Nvidia GeForce GTX 1060 6GB<br>
-- AMD Radeon RX 570 4GB<br>
+Nvidia GeForce RTX 2080ti<br>
+Nvidia GeForece RTX 2080<br>
+AMD Radeon VII<br>
+Nvidia GeForce RTX 2070<br>
+Nvidia GeForce RTX 2060<br>
+AMD Radeon RX Vega 56 8GB
+GeForece GTX 1660 ti 6GB<br>
+AMD Radeon RX 580 8GB<br>
+Nvidia GeForce GTX 1060 6GB<br>
+AMD Radeon RX 570 4GB<br>
 
 
 
@@ -48,6 +48,8 @@ Intel core i9-9980XE<br>
 Intel Pentium G4560<br>
 
 #### Top CPU Coolers to buy
+
+
 
 
 #### Top Motherboards to buy
