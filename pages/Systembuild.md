@@ -13,7 +13,7 @@ CPU Cooler:<br>
 Motherboard:<br>
 Memory:<br>
 Storage:<br>
-Video Card:<br>
+Graphics Card:<br>
 Case:<br>
 Power Supply:<br>
 Optical Drive:<br>
