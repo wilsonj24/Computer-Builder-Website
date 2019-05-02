@@ -21,3 +21,6 @@ Power Supply: EVGA - SuperNOVA G2 650 W 80+ Gold Certified Fully-Modular ATX Pow
 
 
 ![Custom PC Screenshot](/assets/img/uploads/PatrickUng.jpg)
+
+## Submission by:<br>
+Patrick Ung
