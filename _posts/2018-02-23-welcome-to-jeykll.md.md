@@ -23,7 +23,7 @@ Case: Corsair Carbide Series SPEC-02<br>
 
 
 
-![Custom PC Screenshot](/assets/img/uploads/Nathan.jpg)
+![Custom PC Screenshot](/assets/img/uploads/Nathan.png)
 
 ## Submission by:<br>
 Nathan Arillo
