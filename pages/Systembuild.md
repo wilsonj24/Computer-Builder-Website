@@ -4,7 +4,8 @@ title: System Build
 permalink: /about
 section: about
 intro_paragraph: |
-  This Page will help you pick parts that will help you build your PC.
+  This Page will help you pick parts that will help you build your PC based on
+  popular selections.
 ---
 # Parts
 

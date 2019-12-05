@@ -5,5 +5,5 @@ permalink: /blog
 section: blog
 intro_paragraph: >
   This page will have submissions of completed PC builds using parts listed on
-  this site.
+  this site and other popular build sites.
 ---
