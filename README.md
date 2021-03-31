@@ -1,9 +1,8 @@
-## Jordan Wilson's Personal Portfolio
+## Computer Builder site
 
 
 
-Hey, my name is Jordan and this is my personal portfolio site. Here, you can find
-a lot of skills and projects that I have completed over the last few years. I am
-a current senior at Allegheny College and am majoring in Computer Science and minoring in Economics.
-I am an aspiring cybersecurity specialist as I have a passion for security. I hope
-you enjoy!
+Hey, my name is Jordan and this is my Computer Builder site. Here, you can find
+a lot of different possible parts you could use to build a computer. I have also
+taken photo submissions of people who have built there own computers with parts
+that are listed on my site. I hope you enjoy! Feedback is also welcomed.
